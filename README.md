@@ -74,13 +74,6 @@ The system combines **YOLO object detection** and **pose estimation** to track b
 
 ---
 
-## 📂 Model File (`basketballModel.pt`)
-The trained basketball detection model is too large for GitHub.  
-Please download it here and place it in your project directory:  
-
-👉 [Download basketballModel.pt](https://drive.google.com/file/d/1e6HLRuhh1IEmxOFaxHQMxfRqhzD92t3B/view?usp=sharing)
-
----
 
 ## 🔮 Customizability & Expansion
 - Adjustable thresholds for detection sensitivity.  
