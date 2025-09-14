@@ -1,10 +1,5 @@
 # 🏀 Real-time-Basketball-Violation-Detection
 
-## 📹 Demo Video
-[![Youtube Video Demo](https://img.youtube.com/vi/VZgXUBi_wkM/0.jpg)](https://www.youtube.com/watch?v=VZgXUBi_wkM)
-
----
-
 ## 🎯 Purpose
 Basketball is one of the most dynamic sports, but also one of the most criticized for referee decisions that can change the outcome of championships.  
 While other sports like **Tennis** (ball tracking) and **Track & Field** (finish line detection) have embraced computer vision, basketball has lagged behind.
